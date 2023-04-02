@@ -1,0 +1,43 @@
+Crear una carpeta 
+Dentro de la carpeta, click derecho y hacer Git bash Here
+Dentro del editor de comandos hacer:
+git clone https://github.com/Ludmimar/CodoaCodo-Grupo01.git (aqui colocar nombre de mi repo)
+cerrar el comando
+Entrar a la carpeta que se clono del repo vacia
+Adentro de esta carpeta copiar los archivos del proyecto.
+Adentro de esta carpeta hacer git bash here:
+git status
+git add .
+
+(se puede obviar)
+git status
+git branch develop
+git branch
+git checkout develop
+
+git commit -a -m "Cursos creados"
+git commit -a -m "Cursos creados"
+
+con estos pasos envio mi proyecto al repo remoto
+
+aulapresencial002@centrodeelearning.com 20:09
+Crear una carpeta 
+Dentro de la carpeta, click derecho y hacer Git bash Here
+Dentro del editor de comandos hacer:
+git clone https://github.com/Ludmimar/CodoaCodo-Grupo01.git (aqui colocar nombre de mi repo)
+cerrar el comando
+Entrar a la carpetaa qu se clono del repo vacia
+Adentro de esta carpeta copiar los archivos del proyecto.
+Adentro de esta carpeta hacer git bash here:
+git status
+git add .
+git status
+git commit -a -m "Cursos creados"
+git branch develop
+git branch
+git checkout develop
+git push -u origin 
+git commit -a -m "Cursos creados"
+git push -u origin develop
+
+con estos pasos envio mi proyecto al repo remoto
